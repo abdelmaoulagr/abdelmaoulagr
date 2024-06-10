@@ -13,7 +13,7 @@ I'm a Software Engineer with a passion for backend development and data science,
 ## 🛠️ Technologies & Tools
 
 Here are some of the languages, frameworks, and tools I work with:
-<i>
+<i font-size:8px>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </i>
 
