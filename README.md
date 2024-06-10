@@ -13,7 +13,9 @@ I'm a Software Engineer with a passion for backend development and data science,
 ## 🛠️ Technologies & Tools
 
 Here are some of the languages, frameworks, and tools I work with:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<i>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+</i>
 
  
 <!--
