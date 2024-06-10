@@ -13,10 +13,8 @@ I'm a Software Engineer with a passion for backend development and data science,
 ## 🛠️ Technologies & Tools
 
 Here are some of the languages, frameworks, and tools I work with:
-  <i class="devicon-python-plain"></i>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
  
 <!--
 **abdelmaoulagr/abdelmaoulagr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
