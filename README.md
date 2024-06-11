@@ -10,16 +10,15 @@ I'm a Software Engineer with a passion for backend development and data science,
 - 🌱 I’m currently learning advanced machine learning techniques
 - 👯 I’m looking to collaborate on backend and ML projects
 
+## 🛠️ Technologies & Tools
+
+Here are some of the languages, frameworks, and tools I work with:
+
+[![My Skills](https://skillicons.dev/icons?i=py,php,js,ts,html,css)](https://skillicons.dev)
 
  
 <!--
 
-## 🛠️ Technologies & Tools
-
-Here are some of the languages, frameworks, and tools I work with:
-<i font-size:8px>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-</i>
 
 **abdelmaoulagr/abdelmaoulagr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
