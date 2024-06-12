@@ -1,4 +1,4 @@
-# Hi there, I'm Abdel Mawla 👋
+# Hi there, I'm Abdel Maoula 👋
 
 Welcome to my GitHub profile!
 
@@ -14,7 +14,6 @@ I'm a Software Engineer with a passion for backend development and data science,
 
 Here are some of the languages, frameworks, and tools I work with:
 
-### Languages
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/> 
