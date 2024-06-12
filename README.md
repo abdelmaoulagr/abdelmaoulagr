@@ -13,9 +13,9 @@ I'm a Software Engineer with a passion for backend development and data science,
 ## 🛠️ Technologies & Tools
 
 Here are some of the languages, frameworks, and tools I work with:
-<span style="font-size:0.5em;">
+<i style="font-size:2em;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-</span>
+</i>
 
 [![My Skills](https://skillicons.dev/icons?i=py,php,js,ts,c,html,css)](https://skillicons.dev)
 <br>
