@@ -8,7 +8,7 @@ I'm a Software Engineer with a passion for backend development and data science,
 
 - 🔭 I’m currently working on backend development projects
 - 🌱 I’m currently learning advanced machine learning techniques
-- 👯 I’m looking to collaborate on backend and ML projects
+- 👯 I’m looking to collaborate on backend projects
 
 ## 🛠️ Technologies & Tools
 
