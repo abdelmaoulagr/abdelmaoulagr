@@ -4,10 +4,10 @@ Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
-I'm a Software Engineer with a passion for backend development and data science, particularly in machine learning.
+I'm a Software Engineer specializing in backend development with a growing interest in data science, particularly machine learning.
 
 - 🔭 I’m currently working on backend development projects
-- 🌱 I’m currently learning advanced machine learning techniques
+- 🌱 I’m currently learning advanced  software engineering  techniques
 - 👯 I’m looking to collaborate on backend projects
 
 ## 🛠️ Technologies & Tools
