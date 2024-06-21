@@ -9,6 +9,7 @@ I'm a Software Engineer specializing in backend development with a growing inter
 - 🔭 I’m currently working on backend development projects
 - 🌱 I’m currently learning advanced  software engineering  techniques
 - 👯 I’m looking to collaborate on backend projects
+- ⚡ Fun fact: Linux Lover 🐧
 
 ## 🛠️ Technologies & Tools
 
@@ -66,6 +67,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
 
