@@ -8,7 +8,7 @@ I'm a Software Engineer specializing in backend development with a growing inter
 
 - 🔭 I’m currently working on backend development projects
 - 🌱 I’m currently learning advanced  software engineering  techniques
-- 👯 I’m looking to collaborate on backend projects
+- 👯 I’m looking to collaborate on Software/ML projects
 - ⚡ Fun fact: Linux Lover 🐧
 
 ## 🛠️ Technologies & Tools
