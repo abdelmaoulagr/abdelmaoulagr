@@ -8,7 +8,7 @@ I'm a Software Engineer with a strong focus on **backend development** and a gro
 
 - 🔭 Currently working on backend systems and ETL pipelines
 - 🌱 Learning advanced data engineering tools and cloud workflows
-- 👯 Open to collaborating on backend/data engineering/ML projects
+- 👯 Open to collaborating on backend/data projects
 - ⚡ Fun fact: Proud **Linux enthusiast** 🐧
 
 
@@ -34,6 +34,10 @@ Here are some of the languages, frameworks, and tools I actively use:
   <!-- Data & Analysis -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45"/>
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Apache_Kafka_logo.svg" width="50" height="50"/>
+
 
   <!-- Tools & Platforms -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
@@ -41,7 +45,7 @@ Here are some of the languages, frameworks, and tools I actively use:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
 
   <!-- Cloud -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="45" height="45"/>
 </p>
 
 <!--
