@@ -4,17 +4,47 @@ Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
-I'm a Software Engineer specializing in backend development with a growing interest in data science, particularly machine learning.
+I'm a Software Engineer with a strong focus on **backend development** and a growing specialization in **data engineering**. I enjoy building scalable APIs, designing robust ETL pipelines, and working with data at scale using tools like **Airflow**, **Kafka**, **Spark (PySpark)**, and **AWS**.
 
-- 🔭 I’m currently working on backend development projects
-- 🌱 I’m currently learning advanced  software engineering  techniques
-- 👯 I’m looking to collaborate on Software/ML projects
-- ⚡ Fun fact: Linux Lover 🐧
+- 🔭 Currently working on backend systems and ETL pipelines
+- 🌱 Learning advanced data engineering tools and cloud workflows
+- 👯 Open to collaborating on backend/data engineering/ML projects
+- ⚡ Fun fact: Proud **Linux enthusiast** 🐧
+
 
 ## 🛠️ Technologies & Tools
 
-Here are some of the languages, frameworks, and tools I work with:
 
+Here are some of the languages, frameworks, and tools I actively use:
+
+<p align="left">
+  <!-- Programming Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
+
+  <!-- Backend Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
+
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
+
+  <!-- Data & Analysis -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45"/>
+
+  <!-- Tools & Platforms -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
+
+  <!-- Cloud -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45"/>
+</p>
+
+<!--
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/> 
