@@ -17,7 +17,8 @@ I'm a Software Engineer with a strong focus on **backend development** and a gro
 
 Here are some of the languages, frameworks, and tools I actively use:
 
-<p align="left">
+<p align="left" style="display: flex; flex-direction: column; gap: 12px; align-items: flex-start;">
+
   <!-- Programming Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
